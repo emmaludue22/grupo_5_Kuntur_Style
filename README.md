@@ -36,7 +36,7 @@ Estas páginas nos han inspirado en términos de diseño, navegación y funciona
 
 ##  __Wireframe:__
 
-[Click aquí para ver los WIREFRAMES](WireFrame/WIREFRAME.MD)
+[Click aquí para ver los WIREFRAMES](WireFrames/WIREFRAME.MD)
 
 ¡Estamos emocionados de trabajar juntos en este proyecto!
 
